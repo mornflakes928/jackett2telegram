@@ -18,7 +18,7 @@ if os.environ.get('TOKEN'):
     delay = int(os.environ['DELAY'])
 else:
     Token = "1657427162:AAGWSOHKQUTqVHcb0I9rgtZzkaEDuTn259E"
-    chatid = "-544963074"
+    chatid = "1657427162"
     delay = 60
 
 if Token == "X":
